@@ -64,3 +64,22 @@ As operações POST são simuladas e não persistem os dados permanentemente.
 ## Autor
 
 Projeto acadêmico desenvolvido por Felipe Talassi Honora Filho, estudante de Sistemas de Informação da Faculdade Impacta de Tecnologia.
+
+
+## Resultados dos testes
+
+A coleção foi executada no Postman Collection Runner em 16/11/2026.
+
+**Resultados da execução:**
+
+- 5 requisições HTTP executadas.
+- 12 testes automatizados aprovados.
+- 0 testes com falha.
+- 0 erros de execução.
+- Tempo total: 1,515 segundo.
+
+### Evidência da execução
+
+![Resultado dos testes no Postman](Captura%20de%20tela%202026-11-16%20100756.png)
+
+Todos os 12 testes passaram nesta execução, validando códigos de status HTTP, estruturas JSON e informações retornadas pela API.
